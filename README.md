@@ -34,5 +34,5 @@ Nene0x00@github:~$ forensics-tool --trace-graph
 [+] Status  : Header Analysis & URL Scan Complete
 [+] Verdict : SUSPICIOUS | Confidence: High | Artifact Logged
 
-Nene0x00@github:~$echo$Currently
+Nene0x00@github:~$echo $Currently
 Breaking web apps, digital forensic investigations, and writing clean documentation.
