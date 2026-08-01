@@ -1,16 +1,38 @@
-## Hi there 👋
+```bash
+Nene0x00@github:~$ whoami
+Sneha Chaudhary
 
-<!--
-**Nene0x00/Nene0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nene0x00@github:~$ whatis role
+Cybersecurity Analyst | Developer | Creative Writer
 
-Here are some ideas to get you started:
+Nene0x00@github:~$ cat log.txt
+> Focus : Web Security, Forensics, Linux Administration
+> Tools : Kali Linux, Fedora, Burp Suite, Wireshark, CyberChef, VirusTotal, Docker
+> Langs : Python, JavaScript, PHP, C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nene0x00@github:~$ forensics-tool --trace-graph
++-------------------------------------------------------------------------+
+|                         [ Sample_File.eml ]                             |
+|                                  |                                      |
+|            +---------------------+---------------------+                |
+|            |                                           |                |
+|            v                                           v                |
+|    [ Header_Data ]                              [ Email_Body ]          |
+|            |                                           |                |
+|            |====( CyberChef: Decode )====>             |                |
+|            v                                           v                |
+|  ( Domain Mismatch Check )                    ( URL Extraction )        |
+|            \                                           /                |
+|             +---------> [ VirusTotal Engine ] <-------+                 |
+|                                   |                                     |
+|                                   v                                     |
+|                        [ Threat / Phishing Score ]                      |
+|                                   |                                     |
+|                                   v                                     |
+|                         [ Forensic_Report.log ]                         |
++-------------------------------------------------------------------------+
+[+] Status  : Header Analysis & URL Scan Complete
+[+] Verdict : SUSPICIOUS | Confidence: High | Artifact Logged
+
+Nene0x00@github:~$echo$Currently
+Breaking web apps, digital forensic investigations, and writing clean documentation.
