@@ -3,7 +3,7 @@ Bluepill0x00@github:~$ whoami
 Sneha Chaudhary
 
 Bluepill0x00@github:~$ whatis role
-Cybersecurity Analyst | Developer | Creative Writer
+Cybersecurity Analyst | Creative Writer
 
 Bluepill0x00@github:~$ cat log.txt
 > Focus : Web Security, Forensics, Linux Administration
