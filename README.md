@@ -1,16 +1,16 @@
 ```bash
-Bluepill0x00@github:~$ whoami
+Bluepill0x00@:~$ whoami
 Sneha Chaudhary
 
-Bluepill0x00@github:~$ whatis role
+Bluepill0x00:~$ whatis role
 Cybersecurity Analyst | Creative Writer
 
-Bluepill0x00@github:~$ cat log.txt
+Bluepill0x00:~$ cat log.txt
 > Focus : Web Security, Forensics, Linux Administration
 > Tools : Kali Linux, Fedora, Burp Suite, Wireshark, CyberChef, VirusTotal, Docker
 > Langs : Python, JavaScript, PHP, C/C++
 
-Bluepill0x00@github:~$ forensics-tool --trace-graph
+Bluepill0x00:~$ forensics-tool --trace-graph
 +-------------------------------------------------------------------------+
 |                         [ Sample_File.eml ]                             |
 |                                  |                                      |
@@ -34,5 +34,5 @@ Bluepill0x00@github:~$ forensics-tool --trace-graph
 [+] Status  : Header Analysis & URL Scan Complete
 [+] Verdict : SUSPICIOUS | Confidence: High | Artifact Logged
 
-Bluepill0x00@github:~ echo $Currently
+Bluepill0x00:~ echo $Currently
 Breaking web apps, digital forensic investigations, and writing clean documentation.
